@@ -8,3 +8,4 @@ node_modules/
 static/
 __pycache__
 package-lock.json
+mqtt_config.py
