@@ -1,0 +1,10 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+venv
+.parcel-cache
+node_modules/
+static/
+__pycache__
+package-lock.json

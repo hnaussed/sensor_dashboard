@@ -1,0 +1,2 @@
+user = "mqttuser"
+password = "mqtuser"
