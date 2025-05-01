@@ -1,2 +1,0 @@
-user = "mqttuser"
-password = "mqtuser"
